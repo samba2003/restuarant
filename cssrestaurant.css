@@ -1,0 +1,134 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: black;
+    text-align: center;
+}
+#main_body{
+    background: rgb(245,43,235);
+background: linear-gradient(133deg, rgba(245,43,235,1) 0%, rgba(230,89,89,1) 38%, rgba(49,152,236,1) 100%);
+height: 300%;
+width: 100%;
+padding-left: 5%;
+padding-right: 5%;
+padding-top: 5%;
+padding-bottom: 5%;
+
+}
+.upper{
+    background-color:rgb(224, 224, 39);
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+    float: left;
+    margin-left: 10px;
+    padding: 3px;
+    width: 200px;
+    height: 28px;
+}
+#second{
+    width: 90%;
+    height: 25.33%;
+    
+}
+#second1{
+    width:63.33% ;
+    height:100%;
+    margin-top: 2%;
+    float: left;
+}
+#second2{
+    float: left;
+    height:48% ;
+    width:31.33% ;
+    margin-left: 5%;
+    margin-top: 2%;
+    background-color:rgb(224, 224, 39) ;
+    background-position: center;
+
+
+}
+#second3{
+    float: left;
+    height: 47%;
+    margin-top: 2%;
+    width: 31.33%;
+    margin-left: 5%;
+    background-color:rgb(224, 224, 39) ;
+    background-position: center;
+}
+.a{
+    font-size: 40px;
+    color: black;
+}
+.middle1{
+    text-align: center;
+    background-color: antiquewhite;
+    width: 250px;
+    height: 200px;
+    float: left;
+    margin-top: 2%;
+    margin-left: 2%;
+    padding: 3px;
+    
+}
+.middle0{
+    text-align: center;
+    background-color: antiquewhite;
+    width: 250px;
+    height: 200px;
+    float: left;
+    margin-top: 2%;
+    padding: 3px;
+   
+    
+}
+.x{
+    width: 150px;
+    height:150px;
+}
+.y{
+    color: rgb(97, 95, 95);
+    font-weight: bold;
+}
+#middle2{
+    width: 92%;
+    height: 25.25%;
+    background-color: antiquewhite;
+    margin-top:3% ;
+    float: left;
+
+}
+#img1{
+    float: left;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+#h{
+    color: black;
+    font-weight: bold;
+    font-size: larger;
+    text-align: left;
+}
+.j{
+    color: black;
+    font-weight: bold;
+    text-align: left;
+
+}
+#bt{
+    float: left;
+    color: black;
+    background-color:rgb(224, 224, 39) ;
+    font-weight: bold;
+    height: 30px;
+    width: 150px;
+    font-size: large;
+}
+.lower{
+    height: 200px;
+    font-weight: 200px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 15px;
+}
